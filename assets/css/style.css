@@ -26,6 +26,11 @@ h3 {
     color: var(--highlight-color);
 }
 
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 /* Navbar */
 
 #navbar {
