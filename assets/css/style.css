@@ -9,7 +9,7 @@
     --primary-color: #3a2620;
     --secondary-color: #aa9581;
     --highlight-color: #416a8e;
-    --highlight-light-color: #7a9fc2;
+    --highlight-color-light: #7a9fc2;
 }
 
 body {
@@ -20,6 +20,7 @@ h1,
 h2,
 h3 {
     font-family: var(--secondary-font);
+    color: var(--primary-color);
 }
 
 h1,
